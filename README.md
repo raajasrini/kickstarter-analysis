@@ -6,7 +6,7 @@
 ## Analysis and Challenges
 -**Theater Outcomes by Launch Date** depicts the outcomes in various states excluding the live state.The report [Theater Outcomes by Launch Date](https://github.com/raajasrini/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png) shows the **Theater** Category monthly outcomes with sucessfull , failure and cancel counts. The challenge is to perform the year conversion carefully in all the rows.
 
--**"Outcome based on Goals"**  is to find the condition to report the accurate data with dollar amount ranges in Goals against columns to different statuses count and total projects. The report [Outcome based on Goals]((https://github.com/raajasrini/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png) shows the outcome with goals with Percentage to showcase the statues. Manageable challenge is to represent the line graph.
+-**"Outcome based on Goals"**  is to find the condition to report the accurate data with dollar amount ranges in Goals against columns to different statuses count and total projects. The report [Outcome based on Goals](https://github.com/raajasrini/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png) shows the outcome with goals with Percentage to showcase the statues. Manageable challenge is to represent the line graph.
 
 ## Results
 ### Theater Outcomes by Launch Date is 
