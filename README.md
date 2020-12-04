@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-     The Project is to provide a report based on the analysis and visualization for the Louise’s play Fever fundraising goal to find out different campaigns fared  in relation to their launch dates and their funding goals.
+   - The Project is to provide a report based on the analysis and visualization for the Louise’s play Fever fundraising goal to find out different campaigns fared  in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
 - **Theater Outcomes by Launch Date** depicts the outcomes in various states excluding the live state.The report [Theater Outcomes by Launch Date](https://github.com/raajasrini/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png) shows the **Theater** Category monthly outcomes with sucessfull , failure and cancel counts. The challenge is to perform the year conversion carefully in all the rows.
