@@ -14,7 +14,7 @@
  
 
 ## Results
-### Theater Outcomes by Launch Date is 
+### Theater Outcomes by Launch Date
 -	Successful rate were elevated compared to failed status but in overall demand increased from Feb to May 
 - Demand start falling gradually down from May to December.
 -	No cancelled status for the sub category “Play”.
